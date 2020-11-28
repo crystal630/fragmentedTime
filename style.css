@@ -1,6 +1,24 @@
 body{
   background-image: url("imgs/bg.jpg");
 }
+#f{
+  opacity:1;
+}
+#f:hover{
+  opacity:0.5;
+}
+#tm{
+  opacity:1;
+}
+#tm:hover{
+  opacity:0.5;
+}
+#name{
+  opacity:1;
+}
+#name:hover{
+  opacity:0.5;
+}
 #weibo:hover{
   content:url("imgs/wb.gif");
   width:80px;
