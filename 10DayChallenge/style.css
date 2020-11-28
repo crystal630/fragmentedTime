@@ -1,0 +1,237 @@
+body{
+  background-image: url("imgs/bg.jpg");
+}
+#weibo:hover{
+  content:url("imgs/wb.gif");
+  width:80px;
+  height:80px;
+}
+
+#weibo{
+    width:80px;
+    height:80px;
+    transition-duration: 0.4s;
+    border-radius:20px;
+    font-size:25px;
+    display:inline;
+    margin:10px 130px;
+}
+#wx:hover{
+  content:url("imgs/wx.gif");
+  width:80px;
+  height:80px;
+}
+#wx{
+    width:80px;
+    height:80px;
+    transition-duration: 0.4s;
+    display:inline;
+    margin:10px 130px;
+}
+#bl:hover{
+  content:url("imgs/bl.gif");
+  width:80px;
+  height:80px;
+}
+#bl{
+    width:80px;
+    height:80px;
+    transition-duration: 0.4s;
+    border-radius:20px;
+    font-size:25px;
+    display:inline;
+    margin:10px 130px;
+}
+#db:hover{
+  content:url("imgs/db.gif");
+  width:80px;
+  height:80px;
+}
+#db{
+    width:80px;
+    height:80px;
+    transition-duration: 0.4s;
+    border-radius:20px;
+    font-size:25px;
+    display:inline;
+    margin:10px 130px;
+}
+#viz{
+  padding-top:50px;
+  padding-left:40px;
+}
+#img{
+  padding-top:50px;
+}
+#cov{
+ position:fixed;
+ top:100px;
+ left:200px;
+}
+#tm{
+ position:fixed;
+ top:450px;
+ left:150px;
+
+}
+#time:hover{
+opacity:1;
+}
+#n{
+  position:fixed;
+  top:500px;
+  left:1050px;
+}
+#f{
+  position:fixed;
+  top:0px;
+  left:750px;
+}
+#sp{
+  margin-left:200px;
+}
+#p1, #p3 {
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-left:200px;
+  margin-top:50px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-family:"Comic Sans MS";
+}
+#p1:hover{
+  background-color: white;
+  color:black;
+  border:solid;
+}
+#p2:hover{
+  background-color: white;
+  color:black;
+  border:solid;
+}
+
+
+#p2{
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-top:50px;
+  text-align: center;
+  text-decoration: none;
+  position:absolute;
+  top:450px;
+  left:190px;
+  font-size: 16px;
+  font-family:"Comic Sans MS";
+}
+
+#p4{
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-left:200px;
+  margin-top:50px;
+  text-align: center;
+  text-decoration: none;
+  position:absolute;
+  top:1060px;
+  left:785px;
+  font-size: 16px;
+  font-family:"Comic Sans MS";
+}
+#start1{
+  width:600px;
+  height:450px;
+  border:solid;
+  margin-left:50px;
+}
+#start2{
+  width:600px;
+  height:450px;
+  border:solid;
+  margin-left:50px;
+  position:absolute;
+  top:8px;
+  left:728px;
+  padding:0px;
+
+}
+#start{
+  opacity:0.5;
+}
+#start:hover{
+  opacity:1;
+  content:url("imgs/c1.png");
+  height:450px;
+}
+#question{
+  opacity:0.5;
+}
+#question:hover{
+  opacity:1;
+  content:url("imgs/c1.png");
+  height:450px;
+}
+
+#img1{
+  width:240px;position:relative;top:10px;left:30px; border:solid;opacity:0.5;height:216px;
+}
+#img1:hover{
+  opacity:1.0;
+  content:url("imgs/t1.png");
+
+}
+#img2{
+  width:240px;position:relative;top:10px;left:70px;border:solid;opacity:0.5;height:216px;
+}
+#img2:hover{
+  opacity:1.0;
+  content:url("imgs/t2.png");
+}
+#img3{
+width:530px;height:200px;position:relative;top:10px;left:30px;border:solid;opacity:0.5
+}
+#img3:hover{
+  opacity:1.0;
+  content:url("imgs/t3.png");
+}
+#img4{
+  width:240px;position:relative;top:30px;left:30px; border:solid;opacity:0.5;
+}
+#img4:hover{
+  opacity:1.0;
+  content:url("imgs/t4.png");
+  height:180px;
+
+}
+#img5{
+  width:240px;position:relative;top:30px;left:70px;border:solid;opacity:0.5;
+}
+#img5:hover{
+  opacity:1.0;
+  content:url("imgs/t5.png");
+  height:180px;
+}
+#img6{
+  width:240px;position:relative;top:30px;left:30px; border:solid;opacity:0.5;height:180px;
+}
+#img6:hover{
+  opacity:1.0;
+  content:url("imgs/t6.png");
+  height:180px;
+
+}
+#img7{
+  width:240px;position:relative;top:30px;left:70px;border:solid;opacity:0.5;height:180px;
+}
+#img7:hover{
+  opacity:1.0;
+  content:url("imgs/t7.png");
+  height:180px;
+}
