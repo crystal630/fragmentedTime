@@ -13,7 +13,7 @@ function change2(){
 
 }
 function change3(){
-   document.getElementById("img2").src = "../imgs/eating.gif";
+   document.getElementById("img2").src = "../imgs/eating.GIF";
    document.getElementById("img2").style.opacity = "1";
    document.getElementById("img2").style.height = "216px";
 
